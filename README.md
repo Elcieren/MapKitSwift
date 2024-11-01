@@ -1,5 +1,5 @@
 ## SwiftMapKit Uygulama Kullanımı
-| Video 1 | Video 2 | Video 3 |
+| MapKit 1 | MapKit 2 | Mapkit 3 |
 |---------|---------|---------|
 | ![Video 1](https://github.com/user-attachments/assets/6d23fc3f-9357-4430-8c48-e2aedba2b826) | ![Video 2](https://github.com/user-attachments/assets/d6fe4447-9cef-4181-977c-d988d26d223a) | ![Video 3](https://github.com/user-attachments/assets/58479064-add0-4920-92f4-11dc0fdd1bf2) |
 
@@ -161,39 +161,39 @@
  <table style="width: 100%;">
     <tr>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">ANA Ekran</h4>
+            <h4 style="font-size: 14px;">Ana Ekran</h4>
             <img src="https://github.com/user-attachments/assets/7b84828e-e9cf-4687-8734-24fd605f252e" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Oyunun Kategorisİ Seçilme Ekranı</h4>
+            <h4 style="font-size: 14px;">Annotation Tiklanma</h4>
             <img src="https://github.com/user-attachments/assets/fa3df7c9-19ef-447c-88e9-b0ed0c439648" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Seçilen Kategori Oyun Ekranı</h4>
+            <h4 style="font-size: 14px;">Annotation detay olayi</h4>
             <img src="https://github.com/user-attachments/assets/78b2023b-4004-489a-b80c-4cd55370758f" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">ANA Ekran</h4>
+            <h4 style="font-size: 14px;">Annotatio Detay Tiklandiginda WebView</h4>
             <img src="https://github.com/user-attachments/assets/e78c0fa4-8fd1-478a-ab9b-f39cf80c1e9d" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Oyunun Kategorisİ Seçilme Ekranı</h4>
+            <h4 style="font-size: 14px;">Map Gorunum Degisim Secenekleri</h4>
             <img src="https://github.com/user-attachments/assets/255f6a8a-74f8-4309-9ae3-4823f3fcadc7" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Seçilen Kategori Oyun Ekranı</h4>
+            <h4 style="font-size: 14px;">Uydu secimi</h4>
             <img src="https://github.com/user-attachments/assets/5680d341-cc3a-4d6b-bc57-67bbd8326b09" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">ANA Ekran</h4>
+            <h4 style="font-size: 14px;">Standart Secim</h4>
             <img src="https://github.com/user-attachments/assets/c6769ecf-50bf-4347-8d87-d9073ff57041" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Oyunun Kategorisİ Seçilme Ekranı</h4>
+            <h4 style="font-size: 14px;">Kullanici Konum Ekleme</h4>
             <img src="https://github.com/user-attachments/assets/38f11f30-58dd-4f9e-87f2-2d6a4462b011" style="width: 100%; height: auto;">
         </td>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Seçilen Kategori Oyun Ekranı</h4>
+            <h4 style="font-size: 14px;">Kullanici Konum Ekleme Sonrasi</h4>
             <img src="https://github.com/user-attachments/assets/c0030ac4-7ece-4fd5-8214-537b64b02e88" style="width: 100%; height: auto;">
         </td>
     </tr>
