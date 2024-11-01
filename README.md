@@ -1,7 +1,7 @@
 ## SwiftMapKit Uygulama Kullanımı
 | Video 1 | Video 2 | Video 3 |
 |---------|---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/6d23fc3f-9357-4430-8c48-e2aedba2b826) | ![Video 2](https://github.com/user-attachments/assets/6d23fc3f-9357-4430-8c48-e2aedba2b826) | ![Video 3](https://github.com/user-attachments/assets/58479064-add0-4920-92f4-11dc0fdd1bf2) |
+| ![Video 1](https://github.com/user-attachments/assets/6d23fc3f-9357-4430-8c48-e2aedba2b826) | ![Video 2](https://github.com/user-attachments/assets/d6fe4447-9cef-4181-977c-d988d26d223a) | ![Video 3](https://github.com/user-attachments/assets/58479064-add0-4920-92f4-11dc0fdd1bf2) |
 
  <details>
     <summary><h2>Uygulma Amacı</h2></summary>
