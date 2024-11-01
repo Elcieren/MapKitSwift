@@ -13,6 +13,7 @@ class Capital: NSObject , MKAnnotation {
     var coordinate: CLLocationCoordinate2D
     var info: String
     var wikipediaURL: URL?
+    var subtitle: String? { return info }
     
     init(title: String, coordinate: CLLocationCoordinate2D, info: String ,wikipediaURL: URL?) {
         self.title = title

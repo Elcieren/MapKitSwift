@@ -13,6 +13,7 @@ class ViewController: UIViewController , MKMapViewDelegate , CLLocationManagerDe
     
     @IBOutlet var mapView: MKMapView!
     var locationManger = CLLocationManager()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: UIBarButtonItem.SystemItem.edit, target: self, action: #selector(changeMap))
